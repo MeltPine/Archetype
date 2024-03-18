@@ -1,1 +1,1 @@
-Zepyhr is the Sheet cooling variant of the Archetype Toolhead Ecosystem
+Zepyhr ist die Blattkühlungsvariante des Archetype Toolhead Ecosystems
