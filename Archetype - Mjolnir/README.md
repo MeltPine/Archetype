@@ -1,3 +1,3 @@
-Mjolnir is the Underslung 5015 variant of the Archetype Toolhead Ecosystem
+Mjolnir ist die Underslung 5015 Variante des Archetype Toolhead Ecosystems
 
-Atrocity Requires the Probe mount spacer in order to work
+Atrocity Benötigt den Probe Mount Spacer, um zu funktionieren
