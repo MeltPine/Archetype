@@ -1,1 +1,1 @@
-The Unreleased 5020 variant of the Archetype Toolhead Ecosystem
+Die unveröffentlichte Variante 5020 des Archetype Toolhead Ecosystems
