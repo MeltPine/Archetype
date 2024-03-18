@@ -1,3 +1,3 @@
-Atrocity is the 3515 Axial fan cooling variant for the archetype toolhead ecosystem.
+Atrocity ist die 3515 Axiallüfter-Kühlvariante für das Archetyp-Werkzeugkopf-Ökosystem.
 
-Atrocity Requires the Probe mount spacer in order to work
+Atrocity benötigt den Probe Mount Spacer, um zu funktionieren
