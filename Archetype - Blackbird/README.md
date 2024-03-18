@@ -1,1 +1,1 @@
-Blackbird is the 4010 blower fan variant for the Archetype Toolhead Ecosystem
+Blackbird ist die Gebläsevariante 4010 für das Archetype Toolhead Ecosystem
