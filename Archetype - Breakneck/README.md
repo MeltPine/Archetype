@@ -1,5 +1,5 @@
-Breakneck is the Remote Cooling variant of the Archetype Toolhead Ecosystem.
+Breakneck ist die Fernkühlungsvariante des Archetype Toolhead Ecosystems.
 
-It currently mainly uses 7040 blower fans, and requires the user to figure out mounting.
+Sie verwendet derzeit hauptsächlich 7040 Gebläselüfter und erfordert, dass der Benutzer sich über die Montage Gedanken macht.
 
-20mm ID ribbed tubing is also required
+20mm ID Rippenrohre sind ebenfalls erforderlich
